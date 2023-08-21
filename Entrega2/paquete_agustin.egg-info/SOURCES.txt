@@ -1,5 +1,0 @@
-setup.py
-paquete_agustin.egg-info/PKG-INFO
-paquete_agustin.egg-info/SOURCES.txt
-paquete_agustin.egg-info/dependency_links.txt
-paquete_agustin.egg-info/top_level.txt
